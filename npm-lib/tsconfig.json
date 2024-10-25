@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist" ,
+    "rootDir": "./src" ,
+    "declaration": true ,
+    "declarationMap": true ,
+    "lib" : ["ESNext" , "DOM"] ,
+    "sourceMap": true ,
+    "esModuleInterop": true
+  }
+}
